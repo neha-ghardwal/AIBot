@@ -1,8 +1,23 @@
-# React + Vite
+# AIBot (Snip your articles)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is an Article Summarizer built using OpenAI GPT-4, React, Tailwind CSS, and Redux. The goal is to leverage the power of GPT-4 to automatically generate concise and coherent summaries of articles.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Summarize lengthy articles with the help of OpenAI GPT-4.     
+User-friendly React interface.      
+Responsive design using Tailwind CSS.     
+State management with Redux for efficient data flow.
+
+
+## Demo
+
+https://ai-snip-bot.netlify.app/
+
+
+## Tech Stack
+
+**:** React, Redux, TailwindCSS
+
+**API (Rapid API):** Article Extractor and Summarizer
+
